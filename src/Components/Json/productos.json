@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "nombre": "Scrunchie marino",
+      "descripcion": "Scrunchie lino marino",
+      "imagen": "https://www.suechile.cl/images/sites_products-61df7d5edbf42.jpeg",
+      "precio": 5990,
+      "stock": 50,
+      "categoria": "scrunchies"
+    },
+    {
+      "id": 2,
+      "nombre": "Scrunchie blanco",
+      "descripcion": "Scrunchie lino blanco",
+      "imagen": "https://www.suechile.cl/images/sites_products-61df7deab4558.jpeg",
+      "precio": 5990,
+      "stock": 50,
+      "categoria": "scrunchies"
+    },
+    {
+      "id": 3,
+      "nombre": "Scrunchie mostaza",
+      "descripcion": "Scrunchie lino mostaza",
+      "imagen": "https://www.suechile.cl/images/sites_products-61df7eba35051.jpeg",
+      "precio": 5990,
+      "stock": 50,
+      "categoria": "scrunchies"
+    },
+    {
+      "id": 14,
+      "nombre": "Scrunchie terracota",
+      "descripcion": "Scrunchie lino terracota",
+      "imagen": "https://www.suechile.cl/images/sites_products-61df800f89a13.jpeg",
+      "precio": 5990,
+      "stock": 50,
+      "categoria": "scrunchies"
+    },
+    {
+      "id": 4,
+      "nombre": "Rumba arcoiris",
+      "descripcion": "Rumba arcoiris especial verano",
+      "imagen": "https://www.suechile.cl/images/sites_products-62cd9a900e8b5.png",
+      "precio": 7990,
+      "stock": 50,
+      "categoria": "rumbas"
+    },
+    {
+      "id": 5,
+      "nombre": "Rumba mora",
+      "descripcion": "Rumba mora floral especial verano",
+      "imagen": "https://www.suechile.cl/images/sites_products-626b112245d45.jpg",
+      "precio": 7990,
+      "stock": 50,
+      "categoria": "rumbas"
+    },
+    {
+    "id": 6,
+    "nombre": "Rumba negro",
+    "descripcion": "Rumba negro especial verano",
+    "imagen": "https://www.suechile.cl/images/sites_products-62dedbfaa1acc.jpg",
+    "precio": 7990,
+    "stock": 50,
+    "categoria": "rumbas"
+    },
+    {
+      "id": 15,
+      "nombre": "Rumba print",
+      "descripcion": "Rumba print especial verano",
+      "imagen": "https://www.suechile.cl/images/sites_products-62cd919937240.jpg",
+      "precio": 7990,
+      "stock": 50,
+      "categoria": "rumbas"
+      },
+    {
+      "id": 7,
+      "nombre": "Lazos kids",
+      "descripcion": "Lazos distintas variedades para niños de 6-8 años",
+      "imagen": "https://www.suechile.cl/images/sites_products-64701c0eaf88f.jpg",
+      "precio": 4990,
+      "stock": 50,
+      "categoria": "lazos"
+    },
+    {
+      "id": 8,
+      "nombre": "Lazos bebé",
+      "descripcion": "Lazos distintas variedades para niños de 0-2 años",
+      "imagen": "https://www.suechile.cl/images/sites_products-64701d073d377.jpg",
+      "precio": 4990,
+      "stock": 50,
+      "categoria": "lazos"
+    },
+    {
+    "id": 9,
+    "nombre": "Lazos floral",
+    "descripcion": "Lazos lino todas las edades",
+    "imagen": "https://www.suechile.cl/images/sites_products-64701d5c40e6d.jpg",
+    "precio": 4990,
+    "stock": 50,
+    "categoria": "lazos"
+    },
+    {
+      "id": 16,
+      "nombre": "Lazos verano",
+      "descripcion": "Lazos especial verano",
+      "imagen": "https://www.suechile.cl/images/sites_products-64701c0eaf88f.jpg",
+      "precio": 4990,
+      "stock": 50,
+      "categoria": "lazos"
+      },
+
+    {
+      "id": 10,
+      "nombre": "Cintillo Negro",
+      "descripcion": "Cintillo negro con mostacillas",
+      "imagen": "https://www.suechile.cl/images/sites_products-64949b90e6073.jpg",
+      "precio": 3990,
+      "stock": 50,
+      "categoria": "cintillos"
+    },
+    {
+      "id": 11,
+      "nombre": "Cintillo crema",
+      "descripcion": "Cintillo mota color crema",
+      "imagen": "https://www.suechile.cl/images/sites_products-628bebe20dd64.jpg",
+      "precio": 3990,
+      "stock": 50,
+      "categoria": "cintillos"
+    },
+    {
+    "id": 12,
+    "nombre": "Cintillo dorado",
+    "descripcion": "Cintillo beige dorado",
+    "imagen": "https://www.suechile.cl/images/sites_products-64703a464ae7c.jpg",
+    "precio": 3990,
+    "stock": 50,
+    "categoria": "cintillos"
+    },
+    {
+      "id": 13,
+      "nombre": "Cintillo multicolor",
+      "descripcion": "Cintillo multicolor con mostacillas",
+      "imagen": "https://www.suechile.cl/images/sites_products-64949b32e154a.jpg",
+      "precio": 3990,
+      "stock": 50,
+      "categoria": "cintillos"
+      }
+    
+      
+  ]
+ 

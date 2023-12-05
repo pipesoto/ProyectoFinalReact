@@ -1,0 +1,33 @@
+/* ItemDetail.css */
+
+.row .detalle {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center; /* Alinea el contenido al centro */
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .button {
+      background-color: #c881a7;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      text-decoration: none;
+      display: list-item; /* Cambia a "block" para ocupar el ancho completo del contenedor */
+      margin: 10px auto; /* Alinea al centro horizontalmente */
+      font-size: 16px;
+      cursor: pointer;
+  }
+  
