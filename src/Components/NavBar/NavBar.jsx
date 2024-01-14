@@ -1,7 +1,7 @@
 
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import CardWidget from '../CartWidget/CardWidget';
+import CartWidget from '../CartWidget/CartWidget';
 import Logo from './Logo';
 import { Link } from 'react-router-dom';
 import '../../styles/styles.css';
@@ -21,7 +21,7 @@ function Navbarr() {
             <Link to="/category/lazos" className="nav-link">Lazos</Link>
             <Link to="/category/cintillos" className="nav-link">Cintillos</Link>
           </Nav>
-          <Link to="/cart"><CardWidget /></Link>
+          <Link to="/cart"><CartWidget /></Link>
          
       </Navbar>
   

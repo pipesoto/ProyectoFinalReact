@@ -1,0 +1,48 @@
+/* Agrega estos estilos en tu archivo de estilos CSS o donde manejes los estilos */
+
+.cart-item {
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Centra horizontalmente */
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .cart-item-image {
+    max-width: 100px;
+    margin-right: 10px;
+    border-radius: 3px;
+  }
+  
+  .cart-item-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra horizontalmente */
+  }
+  
+  .cart-item-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .cart-item-price {
+    color: #888;
+  }
+  
+  .cart-item-remove {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    outline: none;
+  }
+  
+  .cart-item-remove:hover {
+    background-color: #bb2d3b;
+  }
+  

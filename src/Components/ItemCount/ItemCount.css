@@ -1,0 +1,35 @@
+/* counterStyles.css */
+.counter {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column; /* Cambia la dirección del flujo a columna */
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Espaciado entre los botones y el botón "Agregar al carrito" */
+  }
+  
+  .counter button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+ 
+  .agregar-carrito-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .counter button.operacion.agregar-carrito {
+    /* Puedes añadir estilos específicos para este botón si es necesario */
+  }
+  
