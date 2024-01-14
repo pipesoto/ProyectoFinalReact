@@ -1,5 +1,3 @@
-/* ItemDetail.css */
-
 .row .detalle {
     display: block;
     justify-content: center;
@@ -11,7 +9,7 @@
     border: 1px solid #ccc;
     padding: 20px;
     margin: 10px;
-    text-align: center; /* Alinea el contenido al centro */
+    text-align: center;
   }
   
   .img-fluid {
@@ -25,8 +23,8 @@
       padding: 10px 15px;
       border: none;
       text-decoration: none;
-      display: list-item; /* Cambia a "block" para ocupar el ancho completo del contenedor */
-      margin: 10px auto; /* Alinea al centro horizontalmente */
+      display: list-item;
+      margin: 10px auto;
       font-size: 16px;
       cursor: pointer;
   }

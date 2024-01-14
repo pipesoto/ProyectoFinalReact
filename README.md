@@ -1,4 +1,4 @@
-# HairAccessories Shop
+# Mitutu Shop
 
 Bienvenido/a a MiTutu shop, tu destino para accesorios de mujer, especializados en collets para el cabello. Explora nuestras variadas categorías, donde destacan nuestros exclusivos scrunchies y rumbas, todos hechos a mano con amor.
 
@@ -13,7 +13,7 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado antes de continuar.
 
 
 # Clona el repositorio
-git clone https://github.com/tu-usuario/hair-accessories-shop.git
+git clone https://github.com/pipesoto/ProyectoFinalReact
 
 # Navega al directorio del proyecto
 cd proyecto-final

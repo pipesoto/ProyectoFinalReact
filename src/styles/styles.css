@@ -1,36 +1,31 @@
-/* styles.css */
-
 .card-widget-container {
     display: flex;
     align-items: center;
-    margin-right: 20px; /* Espaciado entre el icono de carrito y otros elementos en el Navbar */
+    margin-right: 20px;
   }
   
   /* Estilo del botón de carrito */
   .cart-button {
-    background-color: rosybrown; /* Fondo transparente para que parezca solo el icono */
-    border: none; /* Sin borde para que se vea más limpio */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón para indicar que es interactivo */
+    background-color: rosybrown;
+    border: none;
+    cursor: pointer;
   }
   
   /* Estilo del icono de carrito */
   .cart-icon {
-    font-size: 2rem; /* Ajusta el tamaño según tus preferencias */
+    font-size: 2rem;
     margin-right: 5px;
     color: #fff;
   }
   
-  /* Agrega más estilos según tus necesidades */
-  /* styles.css */
-
 .logo-container {
-    margin: 0; /* Puedes ajustar este valor según sea necesario */
+    margin: 0;
     padding: 0;
   }
   
   .logo-image {
-    max-width: 40%; /* Asegura que la imagen se ajuste al ancho del contenedor */
-    height: auto; /* Mantiene la proporción original de la imagen */
+    max-width: 40%;
+    height: auto;
   }
   .contenedor-logo{
     padding: 0;
