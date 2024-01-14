@@ -1,9 +1,8 @@
 {
-  "name": "entrega2",
+  "name": "entrega3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pipesoto.github.io/Entrega2_React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

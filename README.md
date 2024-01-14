@@ -16,7 +16,7 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado antes de continuar.
 git clone https://github.com/pipesoto/ProyectoFinalReact
 
 # Navega al directorio del proyecto
-cd proyecto-final
+cd ProyectoFinalReact
 
 # Instala las dependencias
 npm install
