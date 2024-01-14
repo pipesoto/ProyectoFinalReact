@@ -5,7 +5,7 @@ Bienvenido/a a MiTutu shop, tu destino para accesorios de mujer, especializados 
 ## Demo
 
 <!-- agregar link de netlify -->
-Puedes ver una demostración de la aplicación [aquí](enlace/a/tu/demo).
+Puedes ver una demostración de la aplicación [aquí](https://fancy-sunshine-8c6803.netlify.app/).
 
 ## Instalación
 
